@@ -31,9 +31,7 @@ Este projeto implementa um programa em Java que gera todos os anagramas possíve
 ## Como Executar
 
 1. Clone este repositório:
-   ```bash
-   git clone <link-do-repositorio>
-   ```
+ 
 
 2. Compile o programa:
    ```bash
