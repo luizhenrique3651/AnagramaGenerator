@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Generator {
 	/**
-	 * Gera todos os anagramas possíveis da string de entrada fornecida.
+	 * Gera todos os anagramas possíveis da string de entrada fornecida. 
 	 *
 	 * @param input A string de entrada contendo letras distintas.
 	 * @return Uma lista de anagramas gerados a partir da string de entrada.
